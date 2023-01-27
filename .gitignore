@@ -1,0 +1,11 @@
+.vscode
+.DS*
+__pycache__
+
+! __init__.py
+00*
+*.sqlite*
+.env
+wallet*
+test*
+log
