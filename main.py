@@ -1,7 +1,3 @@
 import os
 
-# Devil
-
-# Devil
-
-# ech
+# ech 23
